@@ -2,22 +2,22 @@
   "users": [
     {
       "id": 1,
-      "name": "New Name",
-      "age": 9999
+      "name": "newer name",
+      "age": 23423
     },
     {
       "name": "my anmes",
-      "age": "24",
+      "age": 234,
       "id": 2
     },
     {
       "name": "my anmes",
-      "age": "24",
+      "age": 23,
       "id": 3
     },
     {
       "name": "my anmes",
-      "age": "24",
+      "age": 24,
       "id": 4
     },
     {
